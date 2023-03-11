@@ -1,1 +1,3 @@
+# trainin
+dgbui
 # training
